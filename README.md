@@ -1,6 +1,6 @@
 # odin-recipes
 
-This is a website for finding a some recipes.
+This is a website for finding some recipes.
 
 The goals are to practice:
 - *HTML basics*, such as elements, absolute and relative links;
